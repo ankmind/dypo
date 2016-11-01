@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "427889692310",
+    "firebase_url": "https://dypo-4dc7a.firebaseio.com",
+    "project_id": "dypo-4dc7a",
+    "storage_bucket": "dypo-4dc7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427889692310:android:e2c913fe541b5db5",
+        "android_client_info": {
+          "package_name": "com.ank.dypo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427889692310-o7vrkeefm9khrgtcv87f7gpr9t85mobg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ank.dypo",
+            "certificate_hash": "6027A0BD2521614809AA5ECF30DFD821714A0A5F"
+          }
+        },
+        {
+          "client_id": "427889692310-h7qo9ahra3qmcu2mmd1jufitqsnbisg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjMpf47ryBsJyVgNaOwS0RPn5szERbDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427889692310-h7qo9ahra3qmcu2mmd1jufitqsnbisg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
